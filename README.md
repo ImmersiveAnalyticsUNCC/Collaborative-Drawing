@@ -2,12 +2,13 @@
 
 This project provides free draw and collaborative drawing in 3D with HoloLens.
 
-
 Example snapshots:
 
-![](https://github.com/ImmersiveAnalyticsUNCC/Collaborative-Drawing/blob/master/images/drawing2.jpg)
-![example](https://github.com/ImmersiveAnalyticsUNCC/Collaborative-Drawing/blob/master/images/drawing1.jpg)
+<p align="center">
+  <img height="200" src="https://github.com/ImmersiveAnalyticsUNCC/Collaborative-Drawing/blob/master/images/drawing2.jpg">
+  <img height="200" src="https://github.com/ImmersiveAnalyticsUNCC/Collaborative-Drawing/blob/master/images/drawing1.jpg">
+</p>
 
-Contributors:
+## Contributors
+
 Emily Wasylenko
-
